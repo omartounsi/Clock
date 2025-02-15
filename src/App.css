@@ -1,0 +1,29 @@
+@import url('https://fonts.fontshare.com/css?family=Satoshi');
+
+body{
+  background-color: #161614;
+  color: #ffffe3;
+
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.clock{
+  font-size: 6rem;
+  font-weight: 100;
+  padding: 0;
+}
+
+img{
+  max-width: 200px;
+  max-height: 200px;
+  margin: 0;
+  opacity: 20%;
+}
+
